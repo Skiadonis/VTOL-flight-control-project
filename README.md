@@ -56,7 +56,4 @@ The implementation is provided as a Google Colab notebook in a “literate progr
 - **`controller_S2`**: CO-based controller with dynamic extension — ensures asymptotic convergence of tracking error
 - **Trajectory generation**: smooth polynomial (“smooth step”) point-to-point trajectory (e.g., \((0,0)\rightarrow(5,5)\) in 8 s)
 
----
 
-*Project conducted at Université Claude Bernard Lyon 1 / École Centrale de Lyon (2025–2026).*
-````
